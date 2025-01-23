@@ -1,6 +1,6 @@
 # CodeUp Problem 6043.py
 
-a, b= input().split()
+a, b= map(int, input().split())
 a=float(a)
 b=float(b)
 c=a/b
